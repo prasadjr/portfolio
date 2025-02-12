@@ -18,7 +18,7 @@ Welcome to my portfolio! This repository showcases my projects, skills, experien
 Hello! I'm **Prasad J R**, a passionate **Java SpringBoot Developer**, **Full-Stack Developer**, and **Web Enthusiast**. I specialize in developing robust, scalable, and user-friendly web applications. I'm constantly learning and exploring new technologies to improve my skills and stay updated with the latest trends in software development.
 
 ### Quick Facts:
-- **Location**: [Your Location]
+- **Location**: Mysuru
 - **Education**: Bachelor of Engineering in Computer Science and Engineering, **The National Institute of Engineering Mysuru**
 - **Graduation Year**: 2026
 - **Languages**: English, Kannada, Hindi
